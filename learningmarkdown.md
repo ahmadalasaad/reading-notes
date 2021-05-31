@@ -29,7 +29,7 @@ You can quote text with a >.
 
 > Ahmad alasa'd 
 
-#### That'll be enough today. Next time we'll learn a few more things or, have a good day
+### That'll be enough today. Next time we'll learn a few more things or, have a good day
 
 # Github Pages.
 

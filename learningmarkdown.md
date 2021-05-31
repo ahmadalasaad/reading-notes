@@ -30,3 +30,9 @@ You can quote text with a >.
 > Ahmad alasa'd 
 
  #### That'll be enough today. Next time we'll learn a few more things or, have a good day
+
+# Github Pages.
+
+You can use GitHub Pages to host a website about yourself, your organization, or your project directly from a GitHub repository.
+
+It's a static site hosting service that takes HTML, CSS, and JavaScript files straight from a repository on GitHub, optionally runs the files through a build process, and publishes a website.

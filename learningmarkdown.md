@@ -21,5 +21,12 @@ To create a heading, add one to six **#** symbols before your heading text. The 
 
 ## Links
 You can create an inline link by wrapping link text in brackets [ ], and then wrapping the URL in parentheses ( ).
+
 This site was built using [GitHub Pages](https://pages.github.com/)
 
+## Quoting text
+You can quote text with a >.
+
+> Ahmad alasa'd 
+
+ #### That'll be enough today. Next time we'll learn a few more things or, have a good day

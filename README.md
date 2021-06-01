@@ -1,19 +1,18 @@
-# growth mindset
- 
- ### what is the mindset?
- Your mindset is a set of beliefs that shape how you make sense of the world and yourself. It influences how you think, feel, and behave in any given situation.
- 
- ### And now let we know what is the growth mindset 
- The **growth mindset** is person must have confidence in his ability to get anything he wants 
- 
- ### How can I keep my self in groth mindset?
-***I can learn to do anything I want.***
+# brief about me
 
- I'm a constantly evolving work in progress.
- 
- *The more you challenge yourself, the smarter you become.*
- 
- I only ~~fail~~ when I stop trying.
- 
- #### My name is ahmad ,I am 24 years old ,I graduated from Yarmouk university electronics engineering department ####
- [Github profile](https://github.com/ahmadalasaad)
+My name is Ahmad ,I am 24 years old
+
+I graduated from Yarmouk university from electronics engineering department
+
+And now I am trying to do my best to become one the top people in wep development
+
+My GitHub Profile [GitHub](https://github.com/ahmadalasaad)
+
+# Table of content
+
+**Read number** | **Read name** 
+--------------- |   -------------
+01 | [Learning Markdown](https://ahmadalasaad.github.io/reading-notes/learningmarkdown)
+02 | [Revisions and the cloud](https://ahmadalasaad.github.io/reading-notes/Git)
+lab01b | [growthmindset](https://ahmadalasaad.github.io/reading-notes/growthmindset)
+03 | [structurewebpageswithhtml]( https://ahmadalasaad.github.io/reading-notes/structurewebpageswithhtml)

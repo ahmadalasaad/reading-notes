@@ -19,3 +19,4 @@ lab01b | [growthmindset](https://ahmadalasaad.github.io/reading-notes/growthmind
 04 | [Js](https://ahmadalasaad.github.io/reading-notes/dynamicwithjs)
 05 | [opreatorloop](https://ahmadalasaad.github.io/reading-notes/operatorloop)
 06 | [css](https://ahmadalasaad.github.io/reading-notes/css)
+07 | [function](https://ahmadalasaad.github.io/reading-notes/function)

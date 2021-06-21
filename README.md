@@ -25,5 +25,5 @@ lab01b | [growthmindset](https://ahmadalasaad.github.io/reading-notes/growthmind
 
 | **class number** | **class name** |
 | ----------------- | ------------- |
-| 01 | [Introductory HTML and JavaScript](https://ahmadalasaad.github.io/Code-201-Reading-Notes/class-01) |
-| 02 | [Basics of HTML, CSS & JS](https://ahmadalasaad.github.io/Code-201-Reading-Notes/class-02) |
+| 01 | [Introductory HTML and JavaScript](https://ahmadalasaad.github.io/reading-notes/class-01) |
+| 02 | [Basics of HTML, CSS & JS](https://ahmadalasaad.github.io/reading-notes/class-02) |

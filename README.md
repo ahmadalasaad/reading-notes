@@ -28,4 +28,5 @@ lab01b | [growthmindset](https://ahmadalasaad.github.io/reading-notes/growthmind
 | 01 | [Introductory HTML and JavaScript](https://ahmadalasaad.github.io/reading-notes/class-01) |
 | 02 | [Basics of HTML, CSS & JS](https://ahmadalasaad.github.io/reading-notes/class-02) |
 | 03 | [LISTS_LOOP_BOXES](https://ahmadalasaad.github.io/reading-notes/class-03) |
-| 03 | [LINKIS_LAYOUT_FUNCTION_PAIR](https://ahmadalasaad.github.io/reading-notes/class-04) |
+| 04 | [LINKIS_LAYOUT_FUNCTION_PAIR](https://ahmadalasaad.github.io/reading-notes/class-04) |
+| 05 | [IMAGES_COLOR_TEXT](https://ahmadalasaad.github.io/reading-notes/class-05) |

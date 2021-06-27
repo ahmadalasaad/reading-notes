@@ -31,3 +31,4 @@ lab01b | [growthmindset](https://ahmadalasaad.github.io/reading-notes/growthmind
 | 04 | [LINKIS_LAYOUT_FUNCTION_PAIR](https://ahmadalasaad.github.io/reading-notes/class-04) |
 | 05 | [IMAGES_COLOR_TEXT](https://ahmadalasaad.github.io/reading-notes/class-05) |
 | 06 | [Object_DOM](https://ahmadalasaad.github.io/reading-notes/class-06) |
+| 07 | [Tables_Object](https://ahmadalasaad.github.io/reading-notes/class-07) |

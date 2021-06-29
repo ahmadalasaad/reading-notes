@@ -33,3 +33,4 @@ lab01b | [growthmindset](https://ahmadalasaad.github.io/reading-notes/growthmind
 | 06 | [Object_DOM](https://ahmadalasaad.github.io/reading-notes/class-06) |
 | 07 | [Tables_Object](https://ahmadalasaad.github.io/reading-notes/class-07) |
 | 08 | [LAYOUT](https://ahmadalasaad.github.io/reading-notes/class-08) |
+| 09 | [LAYOUT](https://ahmadalasaad.github.io/reading-notes/class-09) |

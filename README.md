@@ -34,3 +34,4 @@ lab01b | [growthmindset](https://ahmadalasaad.github.io/reading-notes/growthmind
 | 07 | [Tables_Object](https://ahmadalasaad.github.io/reading-notes/class-07) |
 | 08 | [LAYOUT](https://ahmadalasaad.github.io/reading-notes/class-08) |
 | 09 | [Forms_Lists_EVENTS](https://ahmadalasaad.github.io/reading-notes/class-09) |
+| 010 | [Error_Handling_Debugging](https://ahmadalasaad.github.io/reading-notes/class-010) |

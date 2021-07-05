@@ -37,3 +37,4 @@ lab01b | [growthmindset](https://ahmadalasaad.github.io/reading-notes/growthmind
 | 010 | [Error_Handling_Debugging](https://ahmadalasaad.github.io/reading-notes/class-010) |
 | 11 | [IMAGES_SEO](https://ahmadalasaad.github.io/reading-notes/class-11) |
 | 12 | [CANVAS](https://ahmadalasaad.github.io/reading-notes/class-12) |
+| 13 | [Local Storage for Web Applications](https://ahmadalasaad.github.io/reading-notes/class-13) |

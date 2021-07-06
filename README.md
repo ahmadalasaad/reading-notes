@@ -39,3 +39,4 @@ lab01b | [growthmindset](https://ahmadalasaad.github.io/reading-notes/growthmind
 | 12 | [CANVAS](https://ahmadalasaad.github.io/reading-notes/class-12) |
 | 13 | [Local Storage for Web Applications](https://ahmadalasaad.github.io/reading-notes/class-13) |
 | 14a | [Transforms_Transitions & Animations](https://ahmadalasaad.github.io/reading-notes/class-14a) |
+| 14b | [Perfect Team](https://ahmadalasaad.github.io/reading-notes/class-14b) |

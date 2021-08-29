@@ -43,3 +43,7 @@ React components automatically re-render whenever there is a change in their sta
 ### What are some examples of things that we could store in state?
 
 form,counter,etc
+
+## Things I want to know more about
+
+i want to do real app usnig state and props 

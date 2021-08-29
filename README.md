@@ -48,6 +48,7 @@ lab01b | [growthmindset](https://ahmadalasaad.github.io/reading-notes/growthmind
 | **class number** | **class name** |
 | ----------------- | ------------- |
 | 01 | [Component&&props](https://ahmadalasaad.github.io/reading-notes/read01) |
+| 02 | [React lifecycle](https://ahmadalasaad.github.io/reading-notes/read02) |
 
 
 ## Code 401 - Advanced Software Development

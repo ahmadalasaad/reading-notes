@@ -49,6 +49,7 @@ lab01b | [growthmindset](https://ahmadalasaad.github.io/reading-notes/growthmind
 | ----------------- | ------------- |
 | 01 | [Component&&props](https://ahmadalasaad.github.io/reading-notes/read01) |
 | 02 | [React lifecycle](https://ahmadalasaad.github.io/reading-notes/read02) |
+| 03 | [Lists and Keys spread](https://ahmadalasaad.github.io/reading-notes/read03) |
 
 
 ## Code 401 - Advanced Software Development

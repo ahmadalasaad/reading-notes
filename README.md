@@ -51,6 +51,8 @@ lab01b | [growthmindset](https://ahmadalasaad.github.io/reading-notes/growthmind
 | 02 | [React lifecycle](https://ahmadalasaad.github.io/reading-notes/read02) |
 | 03 | [Lists and Keys spread](https://ahmadalasaad.github.io/reading-notes/read03) |
 | 04 | [Lists and Keys spread](https://ahmadalasaad.github.io/reading-notes/read04) |
+| 05 | [Thinking in React](https://ahmadalasaad.github.io/reading-notes/read05) |
+
 
 ## Code 401 - Advanced Software Development
 

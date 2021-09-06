@@ -54,6 +54,7 @@ lab01b | [growthmindset](https://ahmadalasaad.github.io/reading-notes/growthmind
 | 05 | [Thinking in React](https://ahmadalasaad.github.io/reading-notes/read05) |
 | 06 | [Node.js&&Pair programming](https://ahmadalasaad.github.io/reading-notes/read06) |
 | 07 | [REST](https://ahmadalasaad.github.io/reading-notes/read07) |
+| 08 | [APIs](https://ahmadalasaad.github.io/reading-notes/read08) |
 
 
 

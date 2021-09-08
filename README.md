@@ -56,6 +56,7 @@ lab01b | [growthmindset](https://ahmadalasaad.github.io/reading-notes/growthmind
 | 07 | [REST](https://ahmadalasaad.github.io/reading-notes/read07) |
 | 08 | [APIs](https://ahmadalasaad.github.io/reading-notes/read08) |
 | 09 | [functional programming](https://ahmadalasaad.github.io/reading-notes/read09) |
+| 10 | [In memory storage](https://ahmadalasaad.github.io/reading-notes/read10) |
 
 
 ## Code 401 - Advanced Software Development

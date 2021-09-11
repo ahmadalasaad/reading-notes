@@ -57,7 +57,7 @@ lab01b | [growthmindset](https://ahmadalasaad.github.io/reading-notes/growthmind
 | 08 | [APIs](https://ahmadalasaad.github.io/reading-notes/read08) |
 | 09 | [functional programming](https://ahmadalasaad.github.io/reading-notes/read09) |
 | 10 | [In memory storage](https://ahmadalasaad.github.io/reading-notes/read10) |
-| 11 | [In memory storage](https://ahmadalasaad.github.io/reading-notes/read11) |
+| 11 | [SQL NOSQL](https://ahmadalasaad.github.io/reading-notes/read11) |
 
 
 

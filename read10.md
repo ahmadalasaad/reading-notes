@@ -43,7 +43,6 @@ thirdFunction();
 We will answer this question by looking at a sample code of a function that calls another function. Here is the example code:
 
 ```
-
 function firstFunction(){
   console.log("Hello from firstFunction");
 }
@@ -54,5 +53,4 @@ function secondFunction(){
 }
 
 secondFunction();
-
 ```

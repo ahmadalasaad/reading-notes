@@ -60,9 +60,8 @@ lab01b | [growthmindset](https://ahmadalasaad.github.io/reading-notes/growthmind
 | 11 | [SQL NOSQL](https://ahmadalasaad.github.io/reading-notes/read11) |
 | 12 | [CRUD](https://ahmadalasaad.github.io/reading-notes/read12) |
 | 13 | [Diversity & Inclusion in the Tech Industry](https://ahmadalasaad.github.io/reading-notes/read13) |
-
-
-
+| 14 | [OAuth](https://ahmadalasaad.github.io/reading-notes/read14) |
+| 15 | [](https://ahmadalasaad.github.io/reading-notes/read15) |
 
 
 ## Code 401 - Advanced Software Development

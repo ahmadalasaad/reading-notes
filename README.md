@@ -68,3 +68,4 @@ lab01b | [growthmindset](https://ahmadalasaad.github.io/reading-notes/growthmind
 
 | **class number** | **class name** |
 | ----------------- | ------------- |
+| 01 | [Java Basics](https://ahmadalasaad.github.io/reading-notes/r-01) |

@@ -70,4 +70,6 @@ lab01b | [growthmindset](https://ahmadalasaad.github.io/reading-notes/growthmind
 | ----------------- | ------------- |
 | 01 | [Java Basics](https://ahmadalasaad.github.io/reading-notes/r-01) |
 | 02 | [Loops, Imports](https://ahmadalasaad.github.io/reading-notes/r-02) |
+| 02 | [Loops, Imports](https://ahmadalasaad.github.io/reading-notes/r-03) |
+
 

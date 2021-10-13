@@ -72,6 +72,8 @@ lab01b | [growthmindset](https://ahmadalasaad.github.io/reading-notes/growthmind
 | 02 | [Loops, Imports](https://ahmadalasaad.github.io/reading-notes/r-02) |
 | 03 | [ Maps, primitives, File I/O](https://ahmadalasaad.github.io/reading-notes/r-03) |
 | 04 | [ OOP and number](https://ahmadalasaad.github.io/reading-notes/r-04) |
+| 05 | [Linked Lists](https://ahmadalasaad.github.io/reading-notes/r-05) |
+
 
 
 

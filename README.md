@@ -1,10 +1,10 @@
 ## brief about me
 
-My name is Ahmad ,I am 24 years old
+Hello my name is Ahmad 
 
-I graduated from Yarmouk university from electronics engineering department
+I graduated from Yarmouk university with major of electronics engineering 
 
-And now I am trying to do my best to become one the top people in wep development
+And now I am trying to do my best to become one of the top people in web development
 
 My GitHub Profile [GitHub](https://github.com/ahmadalasaad)
 

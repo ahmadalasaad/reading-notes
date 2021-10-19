@@ -74,6 +74,10 @@ lab01b | [growthmindset](https://ahmadalasaad.github.io/reading-notes/growthmind
 | 04 | [ OOP and number](https://ahmadalasaad.github.io/reading-notes/r-04) |
 | 05 | [Linked Lists](https://ahmadalasaad.github.io/reading-notes/r-05) |
 | 06 | [Inheritance and Interfaces](https://ahmadalasaad.github.io/reading-notes/r-06) |
+| 08 | [OO Design](https://ahmadalasaad.github.io/reading-notes/r-08) |
+| 0 | [WRRC and Java](https://ahmadalasaad.github.io/reading-notes/r-09) |
+
+
 
 
 

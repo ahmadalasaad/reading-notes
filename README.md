@@ -76,6 +76,8 @@ lab01b | [growthmindset](https://ahmadalasaad.github.io/reading-notes/growthmind
 | 06 | [Inheritance and Interfaces](https://ahmadalasaad.github.io/reading-notes/r-06) |
 | 08 | [OO Design](https://ahmadalasaad.github.io/reading-notes/r-08) |
 | 09 | [WRRC and Java](https://ahmadalasaad.github.io/reading-notes/r-09) |
+| 09 | [Stacks and Queues](https://ahmadalasaad.github.io/reading-notes/r-10) |
+
 
 
 

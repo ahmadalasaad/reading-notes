@@ -78,7 +78,7 @@ lab01b | [growthmindset](https://ahmadalasaad.github.io/reading-notes/growthmind
 | 09 | [WRRC and Java](https://ahmadalasaad.github.io/reading-notes/r-09) |
 | 010 | [Stacks and Queues](https://ahmadalasaad.github.io/reading-notes/r-10) |
 | 011 | [Spring](https://ahmadalasaad.github.io/reading-notes/r-11) |
-| 013 | [Spring](https://ahmadalasaad.github.io/reading-notes/r-13) |
+| 013 | [Related Resources and Integration Testing](https://ahmadalasaad.github.io/reading-notes/r-13) |
 
 
 

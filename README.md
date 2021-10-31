@@ -81,6 +81,8 @@ lab01b | [growthmindset](https://ahmadalasaad.github.io/reading-notes/growthmind
 | 013 | [Related Resources and Integration Testing](https://ahmadalasaad.github.io/reading-notes/r-13) |
 | 014 | [Trees](https://ahmadalasaad.github.io/reading-notes/r-14) |
 | 016 | [Spring Authentication](https://ahmadalasaad.github.io/reading-notes/r-16) |
+| 017 | [Spring Auth0](https://ahmadalasaad.github.io/reading-notes/r-17) |
+
 
 
 

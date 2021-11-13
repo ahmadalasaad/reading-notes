@@ -76,25 +76,12 @@ lab01b | [growthmindset](https://ahmadalasaad.github.io/reading-notes/growthmind
 | 06 | [Inheritance and Interfaces](https://ahmadalasaad.github.io/reading-notes/r-06) |
 | 08 | [OO Design](https://ahmadalasaad.github.io/reading-notes/r-08) |
 | 09 | [WRRC and Java](https://ahmadalasaad.github.io/reading-notes/r-09) |
-| 010 | [Stacks and Queues](https://ahmadalasaad.github.io/reading-notes/r-10) |
-| 011 | [Spring](https://ahmadalasaad.github.io/reading-notes/r-11) |
-| 013 | [Related Resources and Integration Testing](https://ahmadalasaad.github.io/reading-notes/r-13) |
-| 014 | [Trees](https://ahmadalasaad.github.io/reading-notes/r-14) |
-| 016 | [Spring Authentication](https://ahmadalasaad.github.io/reading-notes/r-16) |
-| 017 | [Spring Auth0](https://ahmadalasaad.github.io/reading-notes/r-17) |
-| 018 | [Web App Security](https://ahmadalasaad.github.io/reading-notes/r-18) |
-| 019 | [WebSocket](https://ahmadalasaad.github.io/reading-notes/r-19) |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+| 10 | [Stacks and Queues](https://ahmadalasaad.github.io/reading-notes/r-10) |
+| 11 | [Spring](https://ahmadalasaad.github.io/reading-notes/r-11) |
+| 13 | [Related Resources and Integration Testing](https://ahmadalasaad.github.io/reading-notes/r-13) |
+| 14 | [Trees](https://ahmadalasaad.github.io/reading-notes/r-14) |
+| 16 | [Spring Authentication](https://ahmadalasaad.github.io/reading-notes/r-16) |
+| 17 | [Spring Auth0](https://ahmadalasaad.github.io/reading-notes/r-17) |
+| 18 | [Web App Security](https://ahmadalasaad.github.io/reading-notes/r-18) |
+| 19 | [WebSocket](https://ahmadalasaad.github.io/reading-notes/r-19) |
+| 26 | [Android Fundamentals](https://ahmadalasaad.github.io/reading-notes/r-26) |

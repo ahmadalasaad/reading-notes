@@ -85,3 +85,4 @@ lab01b | [growthmindset](https://ahmadalasaad.github.io/reading-notes/growthmind
 | 18 | [Web App Security](https://ahmadalasaad.github.io/reading-notes/r-18) |
 | 19 | [WebSocket](https://ahmadalasaad.github.io/reading-notes/r-19) |
 | 26 | [Android Fundamentals](https://ahmadalasaad.github.io/reading-notes/r-26) |
+| 26 | [Android Tasks and the Back Stack](https://ahmadalasaad.github.io/reading-notes/r-27) |

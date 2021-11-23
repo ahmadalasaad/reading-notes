@@ -92,6 +92,8 @@ lab01b | [growthmindset](https://ahmadalasaad.github.io/reading-notes/growthmind
 | 31 | [Espresso](https://ahmadalasaad.github.io/reading-notes/r-31) |
 | 32 | [Serverless and Amplify](https://ahmadalasaad.github.io/reading-notes/r-32) |
 | 33 | [GraphQL @connection](https://ahmadalasaad.github.io/reading-notes/r-33) |
+| 34 | [Monetization](https://ahmadalasaad.github.io/reading-notes/r-34) |
+
 
 
 

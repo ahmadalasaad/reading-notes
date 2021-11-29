@@ -97,6 +97,8 @@ lab01b | [growthmindset](https://ahmadalasaad.github.io/reading-notes/growthmind
 | 36 | [Cognito](https://ahmadalasaad.github.io/reading-notes/r-36) |
 | 36 | [Cognito](https://ahmadalasaad.github.io/reading-notes/r-36) |
 | 37 | [S3](https://ahmadalasaad.github.io/reading-notes/r-37) |
+| 38 | [Notifications](https://ahmadalasaad.github.io/reading-notes/r-38) |
+
 
 
 

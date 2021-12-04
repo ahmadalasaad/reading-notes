@@ -99,3 +99,4 @@ lab01b | [growthmindset](https://ahmadalasaad.github.io/reading-notes/growthmind
 | 37 | [S3](https://ahmadalasaad.github.io/reading-notes/r-37) |
 | 38 | [Notifications](https://ahmadalasaad.github.io/reading-notes/r-38) |
 | 39 | [Kinesis](https://ahmadalasaad.github.io/reading-notes/r-39) |
+| 41 | [Intent Filters](https://ahmadalasaad.github.io/reading-notes/r-39) |
